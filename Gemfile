@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "faraday-retry", "~> 2.3.2"
+gem "faraday-retry", "~> 2.4.0"
 gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "nokogiri", "~> 1.18.8"
+gem "nokogiri", "~> 1.19.2"
 
 group :test do
   gem "fastimage"
